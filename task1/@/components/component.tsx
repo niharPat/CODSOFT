@@ -275,7 +275,7 @@ function BriefcaseIcon(props) {
 }
 
 
-function CodeIcon(props) {
+function CodeIcon(props:any) {
   return (
     <svg
       {...props}
@@ -296,7 +296,7 @@ function CodeIcon(props) {
 }
 
 
-function InfoIcon(props) {
+function InfoIcon(props:any) {
   return (
     <svg
       {...props}
@@ -318,7 +318,7 @@ function InfoIcon(props) {
 }
 
 
-function MenuIcon(props) {
+function MenuIcon(props:any) {
   return (
     <svg
       {...props}
@@ -340,7 +340,7 @@ function MenuIcon(props) {
 }
 
 
-function RocketIcon(props) {
+function RocketIcon(props:any) {
   return (
     <svg
       {...props}
