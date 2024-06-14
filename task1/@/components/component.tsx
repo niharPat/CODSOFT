@@ -254,7 +254,7 @@ export function Component() {
   )
 }
 
-function BriefcaseIcon(props) {
+function BriefcaseIcon(props:any) {
   return (
     <svg
       {...props}
