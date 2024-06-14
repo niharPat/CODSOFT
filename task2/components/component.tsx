@@ -212,7 +212,7 @@ export function Component() {
   )
 }
 
-function CodepenIcon(props) {
+function CodepenIcon(props:any) {
   return (
     <svg
       {...props}
@@ -236,7 +236,7 @@ function CodepenIcon(props) {
 }
 
 
-function DownloadIcon(props) {
+function DownloadIcon(props:any) {
   return (
     <svg
       {...props}
@@ -258,7 +258,7 @@ function DownloadIcon(props) {
 }
 
 
-function EclipseIcon(props) {
+function EclipseIcon(props:any) {
   return (
     <svg
       {...props}
@@ -279,7 +279,7 @@ function EclipseIcon(props) {
 }
 
 
-function FastForwardIcon(props) {
+function FastForwardIcon(props:any) {
   return (
     <svg
       {...props}
@@ -300,7 +300,7 @@ function FastForwardIcon(props) {
 }
 
 
-function GitGraphIcon(props) {
+function GitGraphIcon(props:any) {
   return (
     <svg
       {...props}
@@ -325,7 +325,7 @@ function GitGraphIcon(props) {
 }
 
 
-function MountainIcon(props) {
+function MountainIcon(props:any) {
   return (
     <svg
       {...props}
@@ -345,7 +345,7 @@ function MountainIcon(props) {
 }
 
 
-function NetworkIcon(props) {
+function NetworkIcon(props:any) {
   return (
     <svg
       {...props}
@@ -369,7 +369,7 @@ function NetworkIcon(props) {
 }
 
 
-function TypeIcon(props) {
+function TypeIcon(props:any) {
   return (
     <svg
       {...props}
