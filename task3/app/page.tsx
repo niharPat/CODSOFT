@@ -2,10 +2,10 @@
 import { useState } from "react";
 
 const Component: React.FC = () => {
-  const [display, setDisplay] = useState<string>("0");
+  const [display, setDisplay] = useState<string>("test");
 
   const handleDigitClick = (digit: string) => {
-    if (display === "0") {
+    if (display === "test") {
       setDisplay(digit);
     } else {
       setDisplay(display + digit);
