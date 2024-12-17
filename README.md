@@ -3,7 +3,7 @@
 ## Build & Run Locally
 | Command          | Action                                                         |
 | :--------------- | :------------------------------------------------------------- |
-| `npm i`          | Installs dependencies                                          |
+| `npm i`          | Installs dependencies.                                          |
 | `npm run dev`    | Starts local dev server.                                       |
 
 ## Task 1 - Landing Page
